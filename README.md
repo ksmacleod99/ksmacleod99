@@ -1,5 +1,5 @@
 # Hey y'all!
-Welcome to my Github, I'm Kelly! I'm a self-taught coder and I am currently working as a Project Coordinator at [NTL](https://github.com/NASA-Tournament-Lab). Previously, I was a technical project manager and I've managed a little bit of everything from design projects to data science ones.
+Welcome to my Github, I'm Kelly! I'm a self-taught coder and I am currently working as an Open Innovation Advisor at [NTL](https://github.com/NASA-Tournament-Lab). Previously, I was a technical project manager and I've managed a little bit of everything from design projects to data science ones.
 
 ## :woman_technologist: About Me
 - [PSM1 Certified](https://www.credly.com/badges/525e231a-114f-4c53-808a-5a4a0eeba934/)
@@ -8,7 +8,7 @@ Welcome to my Github, I'm Kelly! I'm a self-taught coder and I am currently work
 - :books: Bookworm and fantasy fan
 - :mag_right: Science fan
 - :cookie: Cookie maker
-- :dog::dog::dog::cat::cat::chicken::chicken::chicken::chicken::chicken::chicken::chicken:
+- :dog::dog::broken_heart::cat::cat::chicken::chicken::chicken::chicken::chicken:
 - Army Veteran
 
 ## Let's Connect
